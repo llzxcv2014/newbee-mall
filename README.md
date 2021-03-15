@@ -2,9 +2,11 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-green.svg)
 ![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-yellow.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/newbee-ltd/newbee-mall/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL3.0-blue.svg)](https://github.com/newbee-ltd/newbee-mall/blob/master/LICENSE)
 
 newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+
+新蜂商城线上预览地址：[http://mall.newbee.ltd](http://mall.newbee.ltd?from=github)，账号可自行注册。
 
 **坚持不易，如果觉得项目还不错的话可以给项目一个 Star 吧，也是对我一直更新代码的一种鼓励啦，谢谢各位的支持。**
 
@@ -17,6 +19,20 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 - 对于部分求职中的 Java 开发者，**你也可以将该项目放入求职简历中以丰富你的工作履历；** 
 - **newbee-mall 还有一些不完善的地方，鄙人才疏学浅，望见谅；** 
 - **有任何问题都可以反馈给我，我会尽量完善该项目。** 
+
+![](https://raw.githubusercontent.com/newbee-ltd/newbee-mall-vue-app/master/static-files/newbee-mall.png)
+
+**新蜂商城前后端分离版本已开源：**
+
+- [后端 API 源码 newbee-mall-api](https://github.com/newbee-ltd/newbee-mall-api)
+- [前端 Vue2 版本源码 newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app)
+- [前端 Vue3 版本源码 newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app)
+
+**新蜂商城升级版本 [newbee-mall-plus](https://github.com/newbee-ltd/newbee-mall-plus)：**
+
+![](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/newbee-mall-plus-logo-mini.png?x-oss-process=image/resize,h_128,w_128)
+
+计划新增优惠券模块、商品秒杀模块、支付宝支付，优化了搜索功能，正在开发中。
 
 > 更多 Spring Boot 实战项目可以关注十三的另一个代码仓库 [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)，该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的前后端分离实践项目等，后续会根据大家的反馈继续增加一些实战项目源码，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
 
@@ -79,13 +95,19 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 > 大家有任何问题或者建议都可以在 [issues](https://github.com/newbee-ltd/newbee-mall/issues) 中反馈给我，我会慢慢完善这个项目。
 
 - 我的邮箱：2449207463@qq.com
-- QQ技术交流群：796794009
+- QQ技术交流群：719099151
 
 > newbee-mall 在 GitHub 和国内的码云都创建了代码仓库，如果有人访问 GitHub 比较慢的话，建议在 Gitee 上查看该项目，两个仓库会保持同步更新。
 
 - [newbee-mall in GitHub](https://github.com/newbee-ltd/newbee-mall)
 - [newbee-mall in Gitee](https://gitee.com/newbee-ltd/newbee-mall)
 ![newbee-mall-info](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-info-3.png)
+
+## 软件著作权
+
+>本系统已申请软件著作权，受国家版权局知识产权以及国家计算机软件著作权保护！
+
+![](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-copyright.png)
 
 ## 页面展示
 
@@ -95,7 +117,7 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 - 商城首页 1
 
-	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-01.gif)
+	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-01-2020.gif)
 
 - 商城首页 2
 
@@ -146,7 +168,7 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 - 商品编辑
 
-	![edit](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-goods-edit.png)
+	![edit](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-goods-edit-new.png)
 
 - 订单管理
 
@@ -163,3 +185,7 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 - [tonytomov](https://github.com/tonytomov/jqGrid)
 - [t4t5](https://github.com/t4t5/sweetalert)
 - [skytotwo](https://github.com/skytotwo/Alipay-WeChat-HTML)
+- [EasyCaptcha](https://github.com/whvcse/EasyCaptcha)
+- [wangeditor-team](https://github.com/wangeditor-team/wangEditor)
+- [Vue](https://github.com/vuejs/vue)
+- [Vant](https://github.com/youzan/vant)
